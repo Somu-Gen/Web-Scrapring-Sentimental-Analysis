@@ -1,4 +1,4 @@
-# Trail_1
+# Web Scraping & Sentimental Analysis
 
 Used libraries: Beautiful soup, requests, pandas, nltk tokenizer , Regex.
 
